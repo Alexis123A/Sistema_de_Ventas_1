@@ -1,0 +1,23 @@
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  ;
+}
+
+#N404{
+    color: orange;
+    font-size: 90px;
+}
+#iconoU{
+    color: orange;
+}
+.error-container {
+    text-align: center; /* Alinea el contenido al centro si es necesario */
+}
+
+label {
+    display: block; /* Hace que el label ocupe toda la anchura disponible */
+    margin-bottom: 10px; /* Espaciado inferior entre el label y el párrafo */
+}
+
+p {
+    margin-top: 0; /* Elimina el margen superior predeterminado del párrafo */
+}
